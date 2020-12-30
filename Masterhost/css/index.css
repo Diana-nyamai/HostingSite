@@ -72,6 +72,9 @@ body {margin:0;font-family:Arial}
   display: block;
 }
 
+.logo{
+  float: left;
+}
 @media screen and (max-width: 600px) {
   .topnav a, .dropdown .dropbtn {
     display: none;
