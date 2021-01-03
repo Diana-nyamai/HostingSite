@@ -107,3 +107,9 @@ body {margin:0;font-family:Arial}
 }
 
 /*body*/
+.background{
+  background-image: url('../Images/L1.jpg');
+  width: 100px;
+  height: 200px;
+  z-index: 1;
+}
