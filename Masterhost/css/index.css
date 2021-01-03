@@ -117,7 +117,12 @@ h1{
   padding: 70px;
   color: #fff;
 }
-
+.text{
+  padding: 40px;
+  padding-top: 80px;
+  text-align:justify;
+  font-size: 20px;
+}
 /*priving table css*/
 .columns {
   float: left;
